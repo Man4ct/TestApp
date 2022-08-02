@@ -14,8 +14,8 @@
         android:theme="@style/Theme.TestApp"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
-            android:exported="false" />
+            android:name=".Main"
+            android:exported="true" />
     </application>
 
 </manifest>
