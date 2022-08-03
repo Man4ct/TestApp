@@ -4,8 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
-        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/paper_line.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/drawable/palette_circle.xml" value="0.195" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/activity_color_select.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/activity_color_selector.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/activity_main.xml" value="0.21883219358232509" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/canvas.xml" value="0.140234375" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/dialog_save.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/drawer_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/drawer_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/layout/paper_line.xml" value="0.1" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/menu/main_options_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Labkom-09/Desktop/TestApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
         <entry key="..\:/Users/USER/Desktop/TestApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/USER/Desktop/TestApp/app/src/main/res/layout/paper_line.xml" value="0.1" />
       </map>
