@@ -25,37 +25,37 @@
 
                 <include layout="@layout/paper_line1" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line2" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line3" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line3" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line4" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line5" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line6" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line7" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line8" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line9" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line10" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line11" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line12" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line0" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line0" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line0" />
 
-                <include layout="@layout/paper_line1" />
+                <include layout="@layout/paper_line0" />
 
             </LinearLayout>
 

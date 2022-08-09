@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:context="com.example.testapp.Main">
+
+    <TextView
+        android:id="@+id/a1"
+        style="@style/Pixel"
+
+        />
+
+    <TextView
+        android:id="@+id/a2"
+        style="@style/Pixel"
+        />
+
+    <TextView
+        android:id="@+id/a3"
+        style="@style/Pixel"
+        />
+
+    <TextView
+        android:id="@+id/a4"
+        style="@style/Pixel"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/a5"
+        style="@style/Pixel"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/a6"
+        style="@style/Pixel"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/a7"
+        style="@style/Pixel"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/a8"
+        style="@style/Pixel"
+        android:background="#000000"/><TextView
+    android:id="@+id/a9"
+    style="@style/Pixel"
+    /><TextView
+    android:id="@+id/a10"
+    style="@style/Pixel"
+    />
+    <TextView
+        android:id="@+id/a11"
+        style="@style/Pixel"
+
+        /><TextView
+    android:id="@+id/a12"
+    style="@style/Pixel" /><TextView
+    android:id="@+id/a13"
+    style="@style/Pixel" /><TextView
+    android:id="@+id/a14"
+    style="@style/Pixel" /><TextView
+    android:id="@+id/a15"
+    style="@style/Pixel" /><TextView
+    android:id="@+id/a16"
+    style="@style/Pixel" />
+
+</LinearLayout>
