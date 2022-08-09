@@ -35,7 +35,7 @@
     <TextView
         android:id="@+id/a6"
         style="@style/Pixel"
-        android:background="#000000" />
+        android:background="#FFEB3B" />
 
     <TextView
         android:id="@+id/a7"
